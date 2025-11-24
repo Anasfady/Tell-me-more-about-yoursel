@@ -101,8 +101,7 @@ https://img.shields.io/badge/Facebook-blue
 </div> 
 
 <div id="badges" align="center">
-  <a href="
-https://www.linkedin.com/in/tarafoncica-marie-sustiguer-a01964273/
+  <a href="https://www.linkedin.com/learning/search?trk=guest_homepage-basic_guest_nav_menu_learning
 ">
 <h1 align="center">
   hey there
