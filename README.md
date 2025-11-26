@@ -78,25 +78,17 @@ https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 </div>
 <div id="badges" align="center">
   <a href="
-https://www.linkedin.com/learning/search?trk=guest_homepage-basic_guest_nav_menu_learning
-">
+https://www.linkedin.com/learning/search?trk=guest_homepage-basic_guest_nav_menu_learning">
     <img src="
-https://img.shields.io/badge/Linkedin-blue
-" alt="LinkedIn Badge"/>
+https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="
-https://www.youtube.com/
-">
-    <img src="
-https://img.shields.io/badge/Youtube-red
-" alt="Youtube Badge"/>
+https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/Youtube-red" alt="Youtube Badge"/>
   </a>
-  <a href="
-https://www.facebook.com/marketplace/
-">
+  <a href="https://www.facebook.com/marketplace/">
     <img src="
-https://img.shields.io/badge/Facebook-blue
-" alt="Facebook Badge"/>
+https://img.shields.io/badge/Facebook-blue" alt="Facebook Badge"/>
   </a>
 </div> 
 
